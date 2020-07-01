@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PORT=8282
+PORT=8383
 echo "Port: $PORT"
 
 # POST method predict
